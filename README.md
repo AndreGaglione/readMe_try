@@ -6,7 +6,7 @@ The main purpose of our project is to create a virtual common space where though
 
 ## INDEX
 
-#### 1. [AESTHETIC RESEARCH](https://github.com/AndreGaglione/readMe_try#1-aesthetic-researchaesthetic-and-concept-research)	                                                              
+#### 1. <a name="1">[AESTHETIC RESEARCH]</a>(https://github.com/AndreGaglione/readMe_try#1-aesthetic-researchaesthetic-and-concept-research)	                                                              
   1.	How we conceived the idea
   2.	Why the toilet?
 
@@ -29,7 +29,7 @@ The main purpose of our project is to create a virtual common space where though
 #### 5.BERLIN NOISE 13
 
 
-## 1. AESTHETIC AND CONCEPT RESEARCH (https://github.com/AndreGaglione/readMe_try#1-aesthetic-researchaesthetic-and-concept-research)
+## 1. [AESTHETIC AND CONCEPT RESEARCH](#1)
 
 ![CONCEPT](Images/LOGO.png)
 
