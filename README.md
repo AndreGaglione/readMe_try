@@ -14,7 +14,7 @@ The main purpose of our project is to create a virtual common space where though
   1. How does it work?
   2. What we expect
 
-#### 3. [DEVELOPMENT](#DEVELOPMENT)
+#### 3. [DEVELOPMENT](#development)
   1. Interface
   2. Lobby
   3. Toilet system
@@ -22,14 +22,14 @@ The main purpose of our project is to create a virtual common space where though
   5. Geolocaction
   6. Tools
 
-#### 4. [ISSUES AND IMPROVEMENTS](#issues-and improvements)
+#### 4. [ISSUES AND IMPROVEMENTS](#issues-and-improvements)
   1. JSON/placement
   2. HTML
 
 #### 5.BERLIN NOISE 13
 
 
-## 1. AESTHETIC AND CONCEPT RESEARCH
+## 1. [AESTHETIC RESEARCH]AESTHETIC AND CONCEPT RESEARCH
 
 ![CONCEPT](Images/LOGO.png)
 
@@ -50,7 +50,7 @@ We continue each other drawings.
 It is a space full of instant words, of raw, animalistic, spontaneous, dreamy, festive, quarrelsome, chaotic, loving ideas. 
 A collective space but full of individual expression.
 
-## 2. CONCEPT
+## 2. CONCEPT (#concept)
 ![CONCEPT](Images/CONCEPT.png)
 
 ### 2.1 How does it work?
@@ -78,7 +78,7 @@ A collective space but full of individual expression.
 
 
 
-## 3. DEVELOPMENT
+## 3. [DEVELOPMENT] DEVELOPMENT
 
 ### 3.1 Interface
 
