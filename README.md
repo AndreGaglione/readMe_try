@@ -5,7 +5,7 @@
 
 The main purpose of our project is to create a virtual common space where thoughts could be expressed indiscriminately.
 
-## INDEX
+## TABLE OF CONTENTS
 
 #### 1. [AESTHETIC RESEARCH](#1)	                                                              
   1.	[How we conceived the idea](#1.1)
