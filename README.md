@@ -50,7 +50,7 @@ We continue each other drawings.
 It is a space full of instant words, of raw, animalistic, spontaneous, dreamy, festive, quarrelsome, chaotic, loving ideas. 
 A collective space but full of individual expression.
 
-## 2. CONCEPT
+## 2. CONCEPT (https://github.com/AndreGaglione/readMe_try#2-concept-1)
 ![CONCEPT](Images/CONCEPT.png)
 
 ### 2.1 How does it work?
