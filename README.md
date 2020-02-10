@@ -15,19 +15,23 @@ The main purpose of our project is to create a virtual common space where though
   2. What we expect
 
 #### 3. DEVELOPMENT
-  1. The interface
-  2. Toilet system
-  3. Toilet search
-  4. Geolocaction
-  5. Tools
+  1. Interface
+  2. Lobby
+  3. Toilet system
+  4. Tile search
+  5. Geolocaction
+  6. Tools
 
 #### 4. ISSUES AND IMPROVEMENTS
+  1. JSON/placement
+
+#### 5.BERLIN NOISE 13
 
 
-## AESTHETIC AND CONCEPT RESEARCH
+## 1. AESTHETIC AND CONCEPT RESEARCH
 
 
-### How we conceived the idea
+### 1.1 How we conceived the idea
 
 We wanted to shape the realm of ideas, of pure concepts freed of their earthly burden.
 Clear words that float in an immense, navigable, dark space.
@@ -35,7 +39,7 @@ But apparently flying high served to fall back to the ground; to come up with so
 We started thinking about a project called “the Hyperuranium” to get where people express themselves - literally - in the most intimate, direct, primordial way.
 We went down to the public toilet.
 
-### Why the toilet?
+### 2.2 Why the toilet?
 
 Each toilet is a world of its own, reflecting the most direct thoughts of those who are using it.
 In addition to the obvious vulgarities, public toilets are signed. There are stickers for bands and collectives. Happenings and hidden events are communicated. We exchange impressions, insults, cues.
@@ -43,10 +47,10 @@ We continue each other drawings.
 It is a space full of instant words, of raw, animalistic, spontaneous, dreamy, festive, quarrelsome, chaotic, loving ideas. 
 A collective space but full of individual expression.
 
-## CONCEPT
+## 2. CONCEPT
 ![CONCEPT](Images/CONCEPT.png)
 
-### How does it work?
+### 2.1 How does it work?
 
 * Each toilet represent a geographical area (a city, an event...)
 * You can access every toilet from everywhere.
@@ -56,48 +60,48 @@ A collective space but full of individual expression.
 * One font, but customizable in color, rotation, size, letters and line spacing.
 
 
-### What could happen /do un here/ we expect ?
+### 2.2 What we expect
 
 * Events communication
-* collective poetry
-* collective typographic drawing
-* public chat
-* search for inspiration
-* self expression
-* ads
-* contact making
-* other unexpected internet phenomena
+* Collective poetry
+* Collective typographic drawing
+* Public chat
+* Search for inspiration
+* Self expression
+* Ads
+* Contact making
+* Other unexpected internet phenomena
 
 
 
 
-## DEVELOPMENT
+## 3. DEVELOPMENT
 
-### Interface:
+### 3.1 Interface
 
 The interface is linear and minimal, essential, white and black. From the homepage the user can access the lobby, the waiting room before the toilets. In the lobby the user can select the toilet in his area and if not yet present he can request one thanks to a button. The geolocation coordinates are visible on this page and there is an audio player that emulates the noises of the disco bathroom environment. Once the door is selected, you enter the toilet, if the user is in the toilet area, the editor mode opens with which he can edit his messages. Typographic functions are: line spacing, letter spacing, size, and rotation.
 
 
-### The toilet system
+### 3.2 Lobby
 
-TOILET SEARCH
+### 3.2 Toilet system
 
-GEOLOCATION
+### 3.3 Tile search
 
+### 3.4 Geolocation
 
-## ISSUES AND IMPROVEMENTS
-
-JSON/PLACEMENT
-Il sistema si basa su un database JSON che viene riscritto ad ogni PLACEMENT appesantendo la pagina ed intaccando la fluidità della navigazione.
-
-—> Utilizzare servizi database service come FIREBASE che garantiscono un caricamento fluido senza continue riscritture del file
+### 3.5 Tools
 
 
-HTML SYSTEM
-Viene creata una pagina molto grande con tanti <div> e questo va ad aumentare il peso della pagina.
+## 4. ISSUES & IMPROVEMENTS
 
-—> Non usare una pagina HTML ma creare un modello custom con un funzionamento simile a Google Maps
+### 4.1 JSON/placement
+The system is based on a JSON database which is rewritten at each PLACEMENT, making the page heavy and affecting the fluidity of the navigation.
 
-The tools
+-> Use database service services such as FIREBASE which guarantee a smooth upload without continuous file rewriting
 
-The team
+
+### 4.2 HTML
+A very large page is created with many <div> and this increases the weight of the page.
+
+-> Do not use an HTML page but create a custom model with a behavior similar to Google Maps
