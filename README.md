@@ -1,2 +1,2 @@
-# readMe_try
-![Image of Yaktocat](Images/COVER.png)
+# YOURPUBLICTOILET.COM
+![COVER](Images/COVER.png)
