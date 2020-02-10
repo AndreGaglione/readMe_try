@@ -6,30 +6,30 @@ The main purpose of our project is to create a virtual common space where though
 
 ## INDEX
 
-#### 1. <a name="1">[AESTHETIC RESEARCH]</a>	                                                              
-  1.	How we conceived the idea
-  2.	Why the toilet?
+#### 1. [AESTHETIC RESEARCH](#1)	                                                              
+  1.	[How we conceived the idea](#1.1)
+  2.	[Why the toilet?](#1.2)
 
-#### 2. [CONCEPT](#concept)
-  1. How does it work?
-  2. What we expect
+#### 2. [CONCEPT](#2)
+  1. [How does it work?](#2.1)
+  2. [What we expect](#2.2)
 
-#### 3. [DEVELOPMENT](#development)
-  1. Interface
-  2. Lobby
-  3. Toilet system
-  4. Tile search
-  5. Geolocaction
-  6. Tools
+#### 3. [DEVELOPMENT](#3)
+  1. [Interface](#3.1)
+  2. [Lobby](#3.2)
+  3. [Toilet system](#3.3)
+  4. [Tile search](#3.4)
+  5. [Geolocaction](#3.5)
+  6. [Tools](#3.6)
 
-#### 4. [ISSUES AND IMPROVEMENTS](#issues-and-improvements)
-  1. JSON/placement
-  2. HTML
+#### 4. [ISSUES AND IMPROVEMENTS](#4)
+  1. [JSON/placement](#4.1)
+  2. [HTML](#4.2)
 
 #### 5.BERLIN NOISE 13
 
 
-## 1. [AESTHETIC AND CONCEPT RESEARCH](#1)
+## 1. <a name="1">[AESTHETIC AND CONCEPT RESEARCH]</a>
 
 ![CONCEPT](Images/LOGO.png)
 
