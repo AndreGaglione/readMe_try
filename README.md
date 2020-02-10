@@ -24,11 +24,14 @@ The main purpose of our project is to create a virtual common space where though
 
 #### 4. ISSUES AND IMPROVEMENTS
   1. JSON/placement
+  2. HTML
 
 #### 5.BERLIN NOISE 13
 
 
 ## 1. AESTHETIC AND CONCEPT RESEARCH
+
+![CONCEPT](Images/LOGO.png)
 
 
 ### 1.1 How we conceived the idea
