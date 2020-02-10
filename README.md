@@ -6,18 +6,19 @@ The main purpose of our project is to create a virtual common space where though
 
 ###INDEX
 
-1.AESTHETIC AND CONCEPT RESEARCH 	                                                              
-  1.1	How we conceived the idea
-  1.2	Why the toilet?
+1. AESTHETIC AND CONCEPT RESEARCH 	                                                              
+  1.	How we conceived the idea
+  2.	Why the toilet?
 
-2.CONCEPT                                                                                                                         2.1 How does it work                                                                                              
-  2.2 What could happen
+2. CONCEPT
+  1. How does it work?
+  2. What we expect
 
-3.DEVELOPMENT
-  3.1      The interface
-  3.2      Toilet system
-  3.3      Toilet search
-  3.4      Geolocaction
-  3.5      Tools
+3. DEVELOPMENT
+  1. The interface
+  2. Toilet system
+  3. Toilet search
+  4. Geolocaction
+  5. Tools
 
-4.   ISSUES AND IMPROVEMENTS
+4. ISSUES AND IMPROVEMENTS
