@@ -1,7 +1,7 @@
 # YOURPUBLICTOILET.COM
 ![COVER](Images/COVER.png)
 
-YOURPUBLICTOILET.COM is a university project developed and realized with p5.js library in Creative Coding class, taught by Mauri Michele and Andrea Benedetti at Politecnico di Milano.
+/*YOURPUBLICTOILET.COM*/ is a university project developed and realized with p5.js library in Creative Coding class, taught by Mauri Michele and Andrea Benedetti at Politecnico di Milano.
 
 The main purpose of our project is to create a virtual common space where thoughts could be expressed indiscriminately.
 
@@ -90,6 +90,17 @@ The interface is linear and minimal, essential, white and black. From the homepa
 
 
 ### <a name="3.2">3.2 Lobby </a>
+```
+var music;
+
+function preload(){}
+  music = loadSound('songs/1.mp3');
+
+function setup(){}
+
+function draw(){}
+
+```
 
 ### <a name="3.3">3.3 Toilet system </a>
 
