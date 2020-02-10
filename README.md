@@ -62,7 +62,8 @@ A collective space but full of individual expression.
 * Walls are not completely zoomable out, forcing you to explore.
 * Write your text into the editor, move it around the toilet and place it.
 * One font, but customizable in color, rotation, size, letters and line spacing.
-</br>
+
+
 
 ### <a name="2.2">2.2 What we expect </a>
 
@@ -75,8 +76,8 @@ A collective space but full of individual expression.
 * Ads
 * Contact making
 * Other unexpected internet phenomena
-</br>
-</br>
+
+
 
 
 ## <a name="3">3. DEVELOPMENT </a>
@@ -84,7 +85,8 @@ A collective space but full of individual expression.
 ### <a name="3.1">3.1 Interface </a>
 
 The interface is linear and minimal, essential, white and black. From the homepage the user can access the lobby, the waiting room before the toilets. In the lobby the user can select the toilet in his area and if not yet present he can request one thanks to a button. The geolocation coordinates are visible on this page and there is an audio player that emulates the noises of the disco bathroom environment. Once the door is selected, you enter the toilet, if the user is in the toilet area, the editor mode opens with which he can edit his messages. Typographic functions are: line spacing, letter spacing, size, and rotation.
-</br>
+/*3 linee per uno spazio tra sottocapitoli, 4 per fine capitolo*/
+
 
 ### <a name="3.2">3.2 Lobby </a>
 
