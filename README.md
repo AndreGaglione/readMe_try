@@ -1,2 +1,2 @@
 # readMe_try
-![Image of Yaktocat](images/COVER.png)
+![Image of Yaktocat](Images/COVER.png)
