@@ -6,7 +6,7 @@ The main purpose of our project is to create a virtual common space where though
 
 ## INDEX
 
-#### 1. [AESTHETIC RESEARCH](#aesthetic-and-concept-research) 	                                                              
+#### 1. [AESTHETIC RESEARCH](https://github.com/AndreGaglione/readMe_try#1-aesthetic-researchaesthetic-and-concept-research)	                                                              
   1.	How we conceived the idea
   2.	Why the toilet?
 
@@ -29,7 +29,7 @@ The main purpose of our project is to create a virtual common space where though
 #### 5.BERLIN NOISE 13
 
 
-## 1. [AESTHETIC RESEARCH]AESTHETIC AND CONCEPT RESEARCH
+## 1. AESTHETIC AND CONCEPT RESEARCH (https://github.com/AndreGaglione/readMe_try#1-aesthetic-researchaesthetic-and-concept-research)
 
 ![CONCEPT](Images/LOGO.png)
 
@@ -50,7 +50,7 @@ We continue each other drawings.
 It is a space full of instant words, of raw, animalistic, spontaneous, dreamy, festive, quarrelsome, chaotic, loving ideas. 
 A collective space but full of individual expression.
 
-## 2. CONCEPT (#concept)
+## 2. CONCEPT
 ![CONCEPT](Images/CONCEPT.png)
 
 ### 2.1 How does it work?
@@ -78,7 +78,7 @@ A collective space but full of individual expression.
 
 
 
-## 3. [DEVELOPMENT] DEVELOPMENT
+## 3. DEVELOPMENT
 
 ### 3.1 Interface
 
