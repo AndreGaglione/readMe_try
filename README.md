@@ -2,6 +2,7 @@
 ![COVER](Images/COVER.png)
 
 YOURPUBLICTOILET.COM is a university project developed and realized with p5.js library in Creative Coding class, taught by Mauri Michele and Andrea Benedetti at Politecnico di Milano.
+
 The main purpose of our project is to create a virtual common space where thoughts could be expressed indiscriminately.
 
 ## INDEX
@@ -85,7 +86,7 @@ A collective space but full of individual expression.
 ### <a name="3.1">3.1 Interface </a>
 
 The interface is linear and minimal, essential, white and black. From the homepage the user can access the lobby, the waiting room before the toilets. In the lobby the user can select the toilet in his area and if not yet present he can request one thanks to a button. The geolocation coordinates are visible on this page and there is an audio player that emulates the noises of the disco bathroom environment. Once the door is selected, you enter the toilet, if the user is in the toilet area, the editor mode opens with which he can edit his messages. Typographic functions are: line spacing, letter spacing, size, and rotation.
-/*3 linee per uno spazio tra sottocapitoli, 4 per fine capitolo*/
+
 
 
 ### <a name="3.2">3.2 Lobby </a>
