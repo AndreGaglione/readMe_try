@@ -1,7 +1,7 @@
 # YOURPUBLICTOILET.COM
 ![COVER](Images/COVER.png)
 
-/*YOURPUBLICTOILET.COM*/ is a university project developed and realized with p5.js library in Creative Coding class, taught by Mauri Michele and Andrea Benedetti at Politecnico di Milano.
+**YOURPUBLICTOILET.COM** is a university project developed and realized with p5.js library in Creative Coding class, taught by Mauri Michele and Andrea Benedetti at Politecnico di Milano.
 
 The main purpose of our project is to create a virtual common space where thoughts could be expressed indiscriminately.
 
@@ -27,8 +27,8 @@ The main purpose of our project is to create a virtual common space where though
   1. [JSON/placement](#4.1)
   2. [HTML](#4.2)
 
-#### 5.BERLIN NOISE 13
-</br>
+#### 5. [THE TEAM](#5)
+
 
 ## 1. <a name="1">AESTHETIC AND CONCEPT RESEARCH </a>
 ![CONCEPT](Images/LOGO.png)
@@ -40,7 +40,7 @@ Clear words that float in an immense, navigable, dark space.
 But apparently flying high served to fall back to the ground; to come up with something that makes sense here, between us, in our daily lives.
 We started thinking about a project called “the Hyperuranium” to get where people express themselves - literally - in the most intimate, direct, primordial way.
 We went down to the public toilet.
-</br>
+
 
 ### <a name="1.2">1.2 Why the toilet? </a>
 
@@ -49,8 +49,7 @@ In addition to the obvious vulgarities, public toilets are signed. There are sti
 We continue each other drawings.
 It is a space full of instant words, of raw, animalistic, spontaneous, dreamy, festive, quarrelsome, chaotic, loving ideas. 
 A collective space but full of individual expression.
-</br>
-</br>
+
 
 ## <a name="2">2. CONCEPT </a>
 ![CONCEPT](Images/CONCEPT.png)
@@ -90,7 +89,7 @@ The interface is linear and minimal, essential, white and black. From the homepa
 
 
 ### <a name="3.2">3.2 Lobby </a>
-```
+```p5.js
 var music;
 
 function preload(){}
