@@ -6,7 +6,7 @@ The main purpose of our project is to create a virtual common space where though
 
 ## INDEX
 
-#### 1. <a name="1">[AESTHETIC RESEARCH]</a>(https://github.com/AndreGaglione/readMe_try#1-aesthetic-researchaesthetic-and-concept-research)	                                                              
+#### 1. <a name="1">[AESTHETIC RESEARCH]</a>	                                                              
   1.	How we conceived the idea
   2.	Why the toilet?
 
