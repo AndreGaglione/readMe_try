@@ -10,11 +10,11 @@ The main purpose of our project is to create a virtual common space where though
   1.	How we conceived the idea
   2.	Why the toilet?
 
-#### 2. CONCEPT
+#### 2. [CONCEPT](#concept)
   1. How does it work?
   2. What we expect
 
-#### 3. DEVELOPMENT
+#### 3. [DEVELOPMENT](#DEVELOPMENT)
   1. Interface
   2. Lobby
   3. Toilet system
@@ -22,7 +22,7 @@ The main purpose of our project is to create a virtual common space where though
   5. Geolocaction
   6. Tools
 
-#### 4. ISSUES AND IMPROVEMENTS
+#### 4. [ISSUES AND IMPROVEMENTS](#issues-and improvements)
   1. JSON/placement
   2. HTML
 
