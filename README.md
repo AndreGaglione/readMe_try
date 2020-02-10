@@ -30,9 +30,7 @@ The main purpose of our project is to create a virtual common space where though
 
 
 ## 1. <a name="1">AESTHETIC AND CONCEPT RESEARCH </a>
-
 ![CONCEPT](Images/LOGO.png)
-
 
 ### <a name="1.1">1.1 How we conceived the idea </a>
 
@@ -50,7 +48,9 @@ We continue each other drawings.
 It is a space full of instant words, of raw, animalistic, spontaneous, dreamy, festive, quarrelsome, chaotic, loving ideas. 
 A collective space but full of individual expression.
 
+
 ## <a name="2">2. CONCEPT </a>
+![CONCEPT](Images/CONCEPT.png)
 
 ### <a name="2.1">2.1 How does it work? </a>
 
@@ -104,6 +104,6 @@ The system is based on a JSON database which is rewritten at each PLACEMENT, mak
 
 
 ### <a name="4.2">4.2 HTML </a>
-A very large page is created with many <div> and this increases the weight of the page.
+A very large page is created with many "<div>" and this increases the weight of the page.
 
 -> Do not use an HTML page but create a custom model with a behavior similar to Google Maps
