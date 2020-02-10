@@ -24,9 +24,10 @@ The main purpose of our project is to create a virtual common space where though
 #### 4. ISSUES AND IMPROVEMENTS
 
 
-##AESTHETIC AND CONCEPT RESEARCH
+## AESTHETIC AND CONCEPT RESEARCH
 
-###How we conceived the idea
+
+### How we conceived the idea
 
 We wanted to shape the realm of ideas, of pure concepts freed of their earthly burden.
 Clear words that float in an immense, navigable, dark space.
@@ -34,7 +35,7 @@ But apparently flying high served to fall back to the ground; to come up with so
 We started thinking about a project called “the Hyperuranium” to get where people express themselves - literally - in the most intimate, direct, primordial way.
 We went down to the public toilet.
 
-###Why the toilet?
+### Why the toilet?
 
 Each toilet is a world of its own, reflecting the most direct thoughts of those who are using it.
 In addition to the obvious vulgarities, public toilets are signed. There are stickers for bands and collectives. Happenings and hidden events are communicated. We exchange impressions, insults, cues.
