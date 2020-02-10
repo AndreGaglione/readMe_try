@@ -27,7 +27,7 @@ The main purpose of our project is to create a virtual common space where though
   2. [HTML](#4.2)
 
 #### 5.BERLIN NOISE 13
-
+</br>
 
 ## 1. <a name="1">AESTHETIC AND CONCEPT RESEARCH </a>
 ![CONCEPT](Images/LOGO.png)
@@ -39,6 +39,7 @@ Clear words that float in an immense, navigable, dark space.
 But apparently flying high served to fall back to the ground; to come up with something that makes sense here, between us, in our daily lives.
 We started thinking about a project called “the Hyperuranium” to get where people express themselves - literally - in the most intimate, direct, primordial way.
 We went down to the public toilet.
+</br>
 
 ### <a name="1.2">1.2 Why the toilet? </a>
 
@@ -47,7 +48,8 @@ In addition to the obvious vulgarities, public toilets are signed. There are sti
 We continue each other drawings.
 It is a space full of instant words, of raw, animalistic, spontaneous, dreamy, festive, quarrelsome, chaotic, loving ideas. 
 A collective space but full of individual expression.
-
+</br>
+</br>
 
 ## <a name="2">2. CONCEPT </a>
 ![CONCEPT](Images/CONCEPT.png)
@@ -60,7 +62,7 @@ A collective space but full of individual expression.
 * Walls are not completely zoomable out, forcing you to explore.
 * Write your text into the editor, move it around the toilet and place it.
 * One font, but customizable in color, rotation, size, letters and line spacing.
-
+</br>
 
 ### <a name="2.2">2.2 What we expect </a>
 
@@ -73,8 +75,8 @@ A collective space but full of individual expression.
 * Ads
 * Contact making
 * Other unexpected internet phenomena
-
-
+</br>
+</br>
 
 
 ## <a name="3">3. DEVELOPMENT </a>
@@ -82,7 +84,7 @@ A collective space but full of individual expression.
 ### <a name="3.1">3.1 Interface </a>
 
 The interface is linear and minimal, essential, white and black. From the homepage the user can access the lobby, the waiting room before the toilets. In the lobby the user can select the toilet in his area and if not yet present he can request one thanks to a button. The geolocation coordinates are visible on this page and there is an audio player that emulates the noises of the disco bathroom environment. Once the door is selected, you enter the toilet, if the user is in the toilet area, the editor mode opens with which he can edit his messages. Typographic functions are: line spacing, letter spacing, size, and rotation.
-
+</br>
 
 ### <a name="3.2">3.2 Lobby </a>
 
