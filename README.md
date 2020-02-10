@@ -6,7 +6,7 @@ The main purpose of our project is to create a virtual common space where though
 
 ## INDEX
 
-#### 1. [AESTHETIC AND CONCEPT RESEARCH](AESTHETIC AND CONCEPT RESEARCH) 	                                                              
+#### 1. [AESTHETIC RESEARCH](aesthetic-and-concept-resarch) 	                                                              
   1.	How we conceived the idea
   2.	Why the toilet?
 
